@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Tanisha!</h1>
-<h3 align="center">A passionate software developer</h3>
 
 ![header_](https://media.licdn.com/dms/image/v2/D4D16AQHoqEmzwW4-0g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1683001554475?e=2147483647&v=beta&t=mHDn615-VNvbWOYAz8wbYJ4m2bcHNjip9bOutgFO5t0)
 
