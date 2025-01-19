@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Tanisha!</h1>
 <h3 align="center">A passionate software developer</h3>
 
-![header_](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+![header_](https://t4.ftcdn.net/jpg/04/96/44/35/360_F_496443587_rE7ZXJBTL0CZfLtRWYpAAzf0DidaWaQj.jpg)
 
 I'm an enthusiastic developer passionate about coding, DSA, and web development. I’m proficient in C, C++, Python, JavaScript, HTML, CSS, and PHP. I love solving problems, building web sites, and continuously learning new technologies.
 
