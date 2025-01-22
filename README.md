@@ -8,7 +8,7 @@ Feel free to check out my work and connect for collaborations! 😊. Eager to le
 
 
 - 📫 How to reach me: [tanishasrivastava697@gmail.com](mailto:tanishasrivastava697@gmail.com)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/15ely-qEfug1FKmKvcaMfXYbTY4I5tCtW/view?usp=drive_link)
+  
 
 
 
@@ -33,9 +33,7 @@ Feel free to check out my work and connect for collaborations! 😊. Eager to le
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
