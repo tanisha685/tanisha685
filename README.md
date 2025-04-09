@@ -8,6 +8,7 @@ Feel free to check out my work and connect for collaborations! 😊. Eager to le
 
 
 - 📫 How to reach me: [tanishasrivastava697@gmail.com](mailto:tanishasrivastava697@gmail.com)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1XqwC3QDUVZENqX63JcI0eX-noptMMl25/view?usp=sharing)
   
 
 
