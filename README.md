@@ -129,7 +129,27 @@ and I enjoy solving problems, learning new technologies, and turning ideas into 
 
 <br><br>
 
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
+## 🏆 Achievements
+
+<table>
+<tr>
+<td width="80">
+
+🚀
+
+</td>
+<td>
+
+### Bharatiya Antariksh Hackathon — ISRO
+
+Selected among *34* teams from 15,104 submissions for the **national Grand Finale**.
+<br>
+Developed **BiSolar Guard**, a physics-informed AI framework for solar-flare nowcasting using
+combined soft and hard X-ray observations from Aditya-L1 and GOES-16.
+
+</td>
+</tr>
+</table>
 
 </div>
 
