@@ -4,7 +4,7 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/jacket.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color -->
-<img src="assets/portrait.svg" width="300" alt="Tanisha Srivastava, rendered as a dot matrix">
+<img src="assets/me.png" width="300" alt="Tanisha Srivastava, rendered as a dot matrix">
 
 <br>
 
