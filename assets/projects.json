@@ -1,0 +1,22 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
+  "projects": [
+     {
+    "repo": "Ai-Draw-io",
+    "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization."
+  },
+  {
+    "repo": "AquaPay",
+    "description": "A smart water management system that enables real-time usage monitoring, AI-based consumption forecasting, leak detection, and transparent token-based billing for residential communities."
+  },
+  {
+    "repo": "Health-ChatPal",
+    "description": "An AI-powered healthcare chatbot that provides an interactive conversational experience for health-related queries."
+  },
+  {
+    "repo": "AI-Resume-Analyzer",
+    "description": "An AI-powered resume application that helps users analyze, improve, and optimize their resumes using intelligent feedback."
+  }
+ 
+]
+}
