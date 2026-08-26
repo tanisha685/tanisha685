@@ -146,18 +146,18 @@ and I enjoy solving problems, learning new technologies, and turning ideas into 
 <td width="50%">
   <a href="https://github.com/tanisha685/Ai-draw-diagram-generator">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
-      <img src="assets/card-dossier-dark.svg" width="420" alt="dossier">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Ai-draw-diagram-generator-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Ai-draw-diagram-generator-light.svg">
+      <img src="assets/card-Ai-draw-diagram-generator-dark.svg" width="420" alt="ai-draw-io">
     </picture>
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/tanisha685/Health-Chat-Pal">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
-      <img src="assets/card-Sage-dark.svg" width="420" alt="Sage">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Health-Chat-Pal-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Health-Chat-Pal-light.svg">
+      <img src="assets/card-Health-Chat-Pal-dark.svg" width="420" alt="Healthchatpal">
     </picture>
   </a>
 </td>
@@ -166,18 +166,18 @@ and I enjoy solving problems, learning new technologies, and turning ideas into 
 <td width="50%">
   <a href="https://github.com/tanisha685/AI-resume-analyzer">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
-      <img src="assets/card-Socrates-dark.svg" width="420" alt="Socrates">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-AI-resume-analyzer-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-AI-resume-analyzer-light.svg">
+      <img src="assets/card-AI-resume-analyzer-dark" width="420" alt="Ai-resume-analyzer">
     </picture>
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/tanisha685/Innovate-3.0-Aquapay">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
-      <img src="assets/card-humanOS-dark.svg" width="420" alt="humanOS">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Innovate-3.0-Aquapay-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Innovate-3.0-Aquapay-light.svg">
+      <img src="assets/card-Innovate-3.0-Aquapay-dark.svg" width="420" alt="Aquapay">
     </picture>
   </a>
 </td>
